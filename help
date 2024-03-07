@@ -1,0 +1,58 @@
+/link - Get a permanent link for media.
+/batch - Create link for multiple media.
+/gfilter - Add global filters.
+/gfilters - View list of all global filters.
+/delg - Delete a specific global filter.
+/delallg - Delete all global filters.
+/g_filter off/on - Control global filter in a group.
+/filter - Add a filter in chat.
+/filters - List all filters of a chat.
+/del - Delete a specific filter in chat.
+/delall - Delete all filters in a chat.
+/autofilter on/off - Enable/disable autofilter in a group.
+/set_template - Set IMDb template for a group.
+/get_template - Get current IMDb template for a group.
+/connect - Connect a particular chat to your PM.
+/disconnect - Disconnect from a chat.
+/connections - List all your connections.
+/logs - Get recent errors.
+/delete - Delete a specific file from DB.
+/deleteall - Delete all files from DB.
+/users - Get list of users and IDs.
+/chats - Get list of chats and IDs.
+/channel - Get list of connected channels.
+/broadcast - Broadcast a message to all users.
+/group_broadcast - Broadcast a message to all connected groups.
+/leave - Leave a chat.
+/disable - Disable a chat.
+/invite - Get invite link of a chat.
+/ban_user - Ban a user.
+/unban_user - Unban a user.
+/restart - Restart the bot.
+/clear_junk - Clear deleted and blocked accounts in DB.
+/clear_junk_group - Clear removed or deactivated groups in DB.
+/inkick - Kick members from a group.
+/instatus - Check status of a chat member.
+/dkick - Kick deleted accounts.
+/ban - Ban a user from the group.
+/unban - Unban a user in the group.
+/tban - Temporarily ban a user.
+/mute - Mute a user.
+/unmute - Unmute a user.
+/tmute - Temporarily mute a user.
+/pin - Pin a message in the group.
+/unpin - Unpin a message in the group.
+/purge - Delete messages in a range.
+/id - Get user ID.
+/info - Get user information.
+/imdb - Fetch film information from IMDb.
+/paste - Paste text on Pastebin.
+/tts - Convert text to speech.
+/telegraph - Upload picture or video to Telegraph.
+/json - Get message info in JSON format.
+/written - Get file for the text.
+/carbon - Get carbonated image of text.
+/font - Change text fonts.
+/share - Get shareable link of text.
+/song - Search a song on YouTube.
+/video - Download a YouTube video.
